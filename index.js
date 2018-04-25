@@ -12,3 +12,4 @@ function holidayCountdown(days, holiday) {
 }
 
 happyHolidays();
+happyHolidaysTo(Easter, Susan);
